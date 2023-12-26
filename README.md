@@ -3,9 +3,9 @@
 ## A Multimodal Real-time System for Detecting Ponzi DApps
 
 ### Authors:
-- Nimsara Fernando
-- Chamod Madhusanka
-- Sandun Induwara
+- [Nimsara Fernando](https://github.com/nimsara66)
+- [Chamod Madhusanka](https://github.com/chamodmadhusanka)
+- [Sandun Induwara](https://github.com/sanduninduwara)
 
 ### Supervisors:
 - Internal Supervisor: Dr. Sandareka Wickramanayake
@@ -34,3 +34,18 @@ The challenge is to recognize a Ponzi DApp in real time as it transacts, relying
 ## Proposed System
 
 ![](./assets/ponzishieldarchitecture.png)
+
+## Smart Contract Branch
+
+[Smartcode Extraction](https://github.com/PonziShield/code-extraction)
+
+## Transacton Branch
+
+[Transacton Data Extraction](https://github.com/PonziShield/test_data_extraction)
+
+## Social Sentiment Branch
+
+[Dapp & Social Media Info Extract](https://github.com/PonziShield/DappInfoExtract)
+
+## Multimodal Fusion
+
