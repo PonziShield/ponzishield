@@ -49,6 +49,8 @@ The challenge is to recognize a Ponzi DApp in real time as it transacts, relying
 
 ## Multimodal Fusion
 
+## [Proposal Presentation](path/to/your/file.pdf){:target="_blank"}
+
 ## References
 
 [1] S. Fan, S. Fu, H. Xu, and X. Cheng, "Al-SPSD: Anti-leakage smart Ponzi schemes detection in blockchain," Information Processing & Management, vol. 58, no. 4, pp. 102587, 2021. [Online]. Available: DOI link.  
