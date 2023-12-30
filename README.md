@@ -49,7 +49,7 @@ The challenge is to recognize a Ponzi DApp in real time as it transacts, relying
 
 ## Multimodal Fusion
 
-## [Proposal Presentation](path/to/your/file.pdf){:target="_blank"}
+## [Proposal Presentation](./assets/proposal_presentation.pdf)
 
 ## References
 
