@@ -37,17 +37,22 @@ The challenge is to recognize a Ponzi DApp in real time as it transacts, relying
 
 ## Smart Contract Branch
 
-[Smartcode Extraction](https://github.com/PonziShield/code-extraction)
+- [Smartcode Extraction](https://github.com/PonziShield/code-extraction)
 
 ## Transacton Branch
 
-[Transacton Data Extraction](https://github.com/PonziShield/test_data_extraction)
+- [Transacton Data Extraction](https://github.com/PonziShield/test_data_extraction)
 
 ## Social Sentiment Branch
 
-[Dapp & Social Media Info Extract](https://github.com/PonziShield/DappInfoExtract)
+- [Dapp & Social Media Info Extract](https://github.com/PonziShield/DappInfoExtract)
+- [Social Media Sentiment Analysis](https://github.com/PonziShield/sentiment)
+- [Social Media Fake News Analysis](https://github.com/PonziShield/fakebert)
+- [Tensor Fusion](https://github.com/PonziShield/tensor-fusion)
 
 ## Multimodal Fusion
+
+- [Multimodal Fusion](https://github.com/PonziShield/multimodal-fusion)
 
 ## [Proposal Presentation](./assets/proposal_presentation.pdf)
 
